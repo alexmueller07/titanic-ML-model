@@ -12,6 +12,7 @@ This is a simple machine learning project that predicts which passengers survive
 - Outputs predictions
 
 All code is contained in `main.py`.
+All data is contained in `/data`.
 
 ## 🛠 How to Run
 
