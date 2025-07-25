@@ -1,7 +1,3 @@
-# titanic-ML-model
-
-To-Do : Add data .csvs from the folder on desktop and fix the code so path to the data is right. 
-
 # 🚢 Titanic Survivor Prediction - Machine Learning Model
 
 This is a simple machine learning project that predicts which passengers survived the Titanic disaster using data from the classic Kaggle competition.
