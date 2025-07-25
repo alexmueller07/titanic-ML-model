@@ -7,7 +7,7 @@ This is a simple machine learning project that predicts which passengers survive
 ## 🧠 What It Does
 
 - Loads and preprocesses the Titanic dataset
-- Trains a classification model (e.g., Logistic Regression or similar)
+- Trains a classification model
 - Evaluates accuracy on test data
 - Outputs predictions
 
