@@ -14,6 +14,12 @@ This is a simple machine learning project that predicts which passengers survive
 All code is contained in `main.py`.
 All data is contained in `/data`.
 
+---
+
+<img width="586" height="439" alt="image" src="https://github.com/user-attachments/assets/dc015157-848d-49d2-9e47-c70dbf3453c2" />
+
+---
+
 ## 🛠 How to Run
 
 1. Clone the repository:
